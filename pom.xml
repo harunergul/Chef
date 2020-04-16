@@ -5,7 +5,7 @@
 	<groupId>com.datasel.chef</groupId>
 	<artifactId>Chef</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging> 
+	<packaging>jar</packaging>
 	<dependencies>
 		<dependency>
 			<groupId>org.jogamp.jogl</groupId>
